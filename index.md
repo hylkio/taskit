@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Taskit
 
-You can use the [editor on GitHub](https://github.com/hylkio/todoList_application/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+> Get your things done
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Taskit is a free and open-source program to manage your tasks easily and safely. It runs on your local server and that is how it is secure.
+The Taskit also saves your data locally. It helps you to syncronize your tasks easily.
 
-### Markdown
+Feel free to send pull requests to help developing Taskit-app
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Some questions?
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hylkio/todoList_application/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Shoot me a message [mailto:mirosopa@gmai.com](mirosopa@gmail.com)
+- My website [https://hylkio.github.io](hylkio.github.io)
